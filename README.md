@@ -1,3 +1,5 @@
+ # My_CodeWars_Task002
+
 Execute task 002 on CodeWars
 
 Complete the solution so that it splits the string into pairs of two characters.
